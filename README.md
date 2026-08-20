@@ -1,16 +1,131 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mo-Ashad/Mo-Ashad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Header Typing Animation -->
+  <a href="https://github.com/Mo-Ashad">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mohammad+Ashad+👋;DevOps+%26+Cloud+Enthusiast;CI%2FCD+Automation+%26+Docker+Specialist;Backend+Developer+%26+Problem+Solver" alt="Typing SVG" />
+  </a>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <strong>Aspiring DevOps Engineer | Cloud & Containerization Enthusiast | Python Developer</strong>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Badges -->
+  <p align="center">
+    <a href="https://github.com/Mo-Ashad?tab=repositories">
+      <img src="https://img.shields.io/github/followers/Mo-Ashad?label=Followers&style=for-the-badge&color=0284c7&logo=github" alt="Followers" />
+    </a>
+    <a href="https://github.com/Mo-Ashad">
+      <img src="https://img.shields.io/github/stars/Mo-Ashad?label=Stars&style=for-the-badge&color=facc15&logo=apachespark" alt="Stars" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+```yaml
+name: Mohammad Ashad
+role: DevOps & Backend Engineer
+passions: [CI/CD Automation, Cloud Computing, Containerization, Microservices]
+currently_learning: [Kubernetes, Terraform, AWS Solutions Architecture]
+focus: Building reliable, automated, and scalable deployment pipelines
+```
+
+- 🔭 I’m currently working on **Automated CI/CD Pipelines & Containerization Workflows**.
+- 🌱 Exploring **Cloud Infrastructure (AWS/GCP), Docker Orchestration, and Infrastructure as Code (IaC)**.
+- 💬 Ask me about **Docker, GitHub Actions, Linux scripting, and Python development**.
+- ⚡ Fun fact: *I believe any deployment done more than twice should be automated!*
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+#### 🚀 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 💻 Programming Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🧰 Developer Tools & Environments
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+</div>
+
+---
+
+### 🌟 Featured Repositories
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🐳 Automated Docker Deployment</h3>
+      <p align="center">End-to-end automated CI/CD pipeline using GitHub Actions, Docker, Pytest, and automated health checking scripts.</p>
+      <p align="center">
+        <a href="https://github.com/Mo-Ashad/Automated-Docker-Deployment">
+          <img src="https://img.shields.io/badge/View_Repository-0284c7?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚙️ DevOps & Cloud Projects</h3>
+      <p align="center">Collection of automation scripts, container recipes, and infrastructure management workflows.</p>
+      <p align="center">
+        <a href="https://github.com/Mo-Ashad?tab=repositories">
+          <img src="https://img.shields.io/badge/Explore_Projects-334155?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo-Ashad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashad's GitHub stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Ashad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Ashad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammad-ashad/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Mo-Ashad">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <sub>⭐ <i>Thanks for visiting my profile! Don't forget to star repositories you find helpful.</i> ⭐</sub>
+</div>
