@@ -2,11 +2,11 @@
 
   <!-- Header Typing Animation -->
   <a href="https://github.com/Mo-Ashad">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mohammad+Ashad+👋;DevOps+%26+Cloud+Enthusiast;CI%2FCD+Automation+%26+Docker+Specialist;Backend+Developer+%26+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mohammad+Ashad+👋;DevOps+%26+Cloud+Enthusiast;CI%2FCD+Automation+%26+Docker+Specialist;Linux+%26+Cloud+Infrastructure+Learner" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Aspiring DevOps Engineer | Cloud & Containerization Enthusiast | Python Developer</strong>
+    <strong>Aspiring DevOps Engineer | Cloud & Containerization Specialist | CI/CD & Linux Enthusiast</strong>
   </p>
 
   <!-- Badges -->
@@ -27,16 +27,16 @@
 
 ```yaml
 name: Mohammad Ashad
-role: DevOps & Backend Engineer
-passions: [CI/CD Automation, Cloud Computing, Containerization, Microservices]
+role: DevOps & Cloud Engineer
+passions: [CI/CD Pipelines, Docker Containerization, Cloud Infrastructure, Linux Automation]
 currently_learning: [Kubernetes, Terraform, AWS Solutions Architecture]
-focus: Building reliable, automated, and scalable deployment pipelines
+focus: Building automated, reliable, and zero-downtime deployment workflows
 ```
 
-- 🔭 I’m currently working on **Automated CI/CD Pipelines & Containerization Workflows**.
-- 🌱 Exploring **Cloud Infrastructure (AWS/GCP), Docker Orchestration, and Infrastructure as Code (IaC)**.
-- 💬 Ask me about **Docker, GitHub Actions, Linux scripting, and Python development**.
-- ⚡ Fun fact: *I believe any deployment done more than twice should be automated!*
+- 🔭 I’m currently working on **Automated CI/CD Pipelines & Docker Deployment Projects**.
+- 🌱 Exploring **Cloud Infrastructure (AWS), Container Orchestration (Docker/Kubernetes), and Infrastructure as Code (IaC)**.
+- 💬 Ask me about **Docker, GitHub Actions CI/CD, Linux system administration, and automation scripting**.
+- ⚡ Philosophy: *If a process has to be done more than once, automate it!*
 
 ---
 
@@ -44,27 +44,26 @@ focus: Building reliable, automated, and scalable deployment pipelines
 
 <div align="center">
 
-#### 🚀 DevOps & Cloud
+#### 🚀 DevOps & Cloud Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### 💻 Programming Languages & Frameworks
+#### 🐍 Scripting & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-#### 🧰 Developer Tools & Environments
+#### 🧰 Tools & Platforms
+![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -113,14 +112,14 @@ focus: Building reliable, automated, and scalable deployment pipelines
 ### 📬 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohammad-ashad/">
+  <a href="https://www.linkedin.com/in/mo-ashad-ansari18007/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Mo-Ashad">
+  <a href="https://github.com/Mo-Ashad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.linkedin.com/in/mo-ashad-ansari18007/" target="_blank">
+    <img src="https://img.shields.io/badge/Message_Me-0284c7?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact" />
   </a>
 </div>
 
