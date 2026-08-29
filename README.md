@@ -26,7 +26,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Mohammad Ashad
+name: Mo Ashad
 role: DevOps & Cloud Engineer
 passions: [CI/CD Pipelines, Docker Containerization, Cloud Infrastructure, Linux Automation]
 currently_learning: [Kubernetes, Terraform, AWS Solutions Architecture]
