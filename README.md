@@ -38,7 +38,7 @@ focus: Building automated, reliable, and zero-downtime deployment workflows
 - 💬 Ask me about **Docker, GitHub Actions CI/CD, Linux system administration, and automation scripting**.
 - ⚡ Philosophy: *If a process has to be done more than once, automate it!*
 
----
+--
 
 ### 🛠️ Tech Stack & Skills
 
