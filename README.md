@@ -31,7 +31,7 @@ role: DevOps & Cloud Engineer
 passions: [CI/CD Pipelines, Docker Containerization, Cloud Infrastructure, Linux Automation]
 currently_learning: [Kubernetes, Terraform, AWS Solutions Architecture]
 focus: Building automated, reliable, and zero-downtime deployment workflows
-``
+```
 
 - 🔭 I’m currently working on **Automated CI/CD Pipelines & Docker Deployment Projects**.
 - 🌱 Exploring **Cloud Infrastructure (AWS), Container Orchestration (Docker/Kubernetes), and Infrastructure as Code (IaC)**.
