@@ -22,7 +22,6 @@
 </div>
 
 ---
-
 ### 👨‍💻 About Me
 
 ```yaml
