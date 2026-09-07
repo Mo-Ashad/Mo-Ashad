@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mohammad+Ashad+👋;DevOps+%26+Cloud+Enthusiast;CI%2FCD+Automation+%26+Docker+Specialist;Linux+%26+Cloud+Infrastructure+Learner" alt="Typing SVG" />
   </a>
 
+
   <p align="center">
     <strong>Aspiring DevOps Engineer | Cloud & Containerization Specialist | CI/CD & Linux Enthusiast</strong>
   </p>
